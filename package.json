@@ -1,0 +1,24 @@
+{
+  "name": "discordjs_commando_template",
+  "version": "1.0.0",
+  "description": "A template for Discordjs with command handler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "GlitchyCodes",
+  "license": "ISC",
+  "dependencies": {
+    "discord-emoji-convert": "^1.6.0",
+    "discord-tictactoe": "^2.0.7",
+    "discord.js": "^11.3.2",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "giphy-api": "^2.0.1",
+    "got": "^11.8.1",
+    "mathjs": "^8.1.1",
+    "mongoose": "^5.11.9",
+    "ms": "^2.1.1",
+    "request": "^2.88.2"
+  }
+}
